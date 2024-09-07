@@ -36,9 +36,3 @@ This project implements a cartoonification process using OpenCV to transform an 
 **Cartoonified Image:**
 
 ![Cartoonified Image](path_to_cartoonified_image)
-
-## Installation
-Install the necessary libraries:
-
-```bash
-pip install opencv-python numpy matplotlib
