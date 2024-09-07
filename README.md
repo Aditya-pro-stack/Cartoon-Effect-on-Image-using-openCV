@@ -27,12 +27,3 @@ This project implements a cartoonification process using OpenCV to transform an 
 2. Upload the project notebook to Google Colab.
 3. Upload your own image or use the provided sample image.
 4. Run the cells step-by-step to cartoonify the image.
-
-## Example Output
-**Original Image:**
-
-![Original Image](path_to_original_image)
-
-**Cartoonified Image:**
-
-![Cartoonified Image](path_to_cartoonified_image)
